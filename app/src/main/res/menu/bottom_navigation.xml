@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_favorite"
+        android:icon="@drawable/ic_baseline"
+        android:title="Favorite" />
+    <item
+        android:id="@+id/nav_color"
+        android:icon="@drawable/ic_color"
+        android:title="Color" />
+    <item
+        android:id="@+id/nav_emoji"
+        android:icon="@drawable/ic_emoji"
+        android:title="Emoji" />
+</menu>
